@@ -1,6 +1,8 @@
 import urllib.request
 import json
 
+# 0 8,20 * * * python3 /home/yxs/k8syaml/pythons/weather-dog.py
+
 # 定义彩云天气 API URL
 # 彩云api官网 https://docs.caiyunapp.com/weather-api/
 api_key = "填写彩云天气申请的api"
